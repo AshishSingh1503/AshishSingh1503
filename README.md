@@ -82,7 +82,7 @@
 </div>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AshishSingh1503&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshishSingh1503&theme=dark&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ---
@@ -91,6 +91,11 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AshishSingh1503&theme=dark&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+### 🔝 Top Contributed Repo
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=AshishSingh1503&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </div>
 
 ---
