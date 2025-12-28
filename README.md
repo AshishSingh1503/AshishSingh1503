@@ -74,37 +74,15 @@
 
 ---
 
-## 🎯 Featured Projects
-
-<div align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AshishSingh1503&repo=aws-vpc-terraform&theme=tokyonight&hide_border=true" alt="AWS VPC Terraform" />
-  </a>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AshishSingh1503&repo=k8s-cicd-pipeline&theme=tokyonight&hide_border=true" alt="Kubernetes CI/CD" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AshishSingh1503&repo=helm-charts&theme=tokyonight&hide_border=true" alt="Helm Charts" />
-  </a>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AshishSingh1503&repo=monitoring-stack&theme=tokyonight&hide_border=true" alt="Monitoring Stack" />
-  </a>
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AshishSingh1503&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishSingh1503&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AshishSingh1503&show_icons=true&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishSingh1503&layout=compact&langs_count=8&theme=dark&hide_border=false"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshishSingh1503&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=AshishSingh1503&theme=dark&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ---
@@ -112,7 +90,7 @@
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AshishSingh1503&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AshishSingh1503&theme=dark&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
